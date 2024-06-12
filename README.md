@@ -38,6 +38,8 @@ fn main() {
 }
 ```
 
+I appreciate the conciseness and readability of the code like so ❤️ 
+
 ## Output
 
 ```text
