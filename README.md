@@ -46,4 +46,5 @@ fn main() {
 
   - [Fun Math 226 Problem statement](https://www.linkedin.com/feed/update/urn:li:activity:7206485712089600000?utm_source=share&utm_medium=member_desktop)
   - [Wikipedia entry](https://en.wikipedia.org/wiki/List_comprehension)
+  - [List comprehension Pythagorean triple Wikipedia entry](https://en.wikipedia.org/wiki/Pythagorean_triple)
   - [list_comprehension Crate](https://crates.io/crates/list_comprehension)
