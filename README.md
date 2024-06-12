@@ -1,5 +1,12 @@
 # funmath226
 
+## Problem statement
+
+```text
+Fun Math #226
+
+A Pythagorean triplet is a set of three natural numbers, a<b<c, for which a^2+b^2=c^2. What is the only one Phytagorean triplet for which a+b+c=200?
+```
 ## Source code
 
 ```rust
