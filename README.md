@@ -2,6 +2,8 @@
 
 ## Problem statement
 
+Revisiting Pythagorean triplet but using List comprehension or to be more precise emulation of the construct using Macro with Rust.
+
 ```text
 Fun Math #226
 
