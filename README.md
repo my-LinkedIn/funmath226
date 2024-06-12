@@ -4,4 +4,4 @@
 
 ## Reference
 
-  - [list_comprehension]([list_comprehension](https://crates.io/crates/list_comprehension))
+  - [list_comprehension Crate](https://crates.io/crates/list_comprehension)
