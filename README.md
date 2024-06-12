@@ -2,7 +2,7 @@
 
 ## Problem statement
 
-Revisiting Pythagorean triple but using **List comprehension** or to be more precise emulation of the construct using Macro with Rust.
+Revisiting Pythagorean triple but using **List comprehension** or to be more precise _emulation_ of the construct by means of Macro with Rust language.
 
 ```text
 Fun Math #226
