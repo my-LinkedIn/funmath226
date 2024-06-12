@@ -1,6 +1,6 @@
 # funmath226
 
-## Problem statement
+## [Problem statement](https://www.linkedin.com/feed/update/urn:li:activity:7206485712089600000?utm_source=share&utm_medium=member_desktop)
 
 ```text
 Fun Math #226
